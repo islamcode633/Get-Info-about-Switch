@@ -1,6 +1,6 @@
 The simply script get info about Switch.
 
-  # INFO: 
+  # info: 
     eth interfaces
     mountpoints
     hostname
