@@ -2,11 +2,12 @@ Scripts For Switch.
 
 
 # create_bridge
-  # info:
+  info:
+    Creating software bridge for run autotest and remote to connect
   
 
 # ssh_conn
-  # info: 
+  info: 
     eth interfaces
     mountpoints
     hostname
