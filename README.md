@@ -1,4 +1,4 @@
-The simply script get info about Switch.
+Scripts For Switch.
 
   # info: 
     eth interfaces
