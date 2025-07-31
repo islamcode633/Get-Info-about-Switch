@@ -5,7 +5,7 @@ Scripts For Switch.
 Creating software bridge for run autotest and remote to connect
   
 
-# ssh_conn
+# get_hwinfo_switch
 eth interfaces
 mountpoints
 hostname
